@@ -3,5 +3,6 @@ dataset/
 __pycache__/
 .ipynb_checkpoints/
 
-*.keras
-*.h5
+models/disease_model.keras
+models/efficientnet_final.keras
+models/efficientnet_model.keras
