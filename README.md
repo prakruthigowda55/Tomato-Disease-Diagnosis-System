@@ -72,21 +72,21 @@ An AI-powered system that detects tomato leaf diseases, explains predictions usi
 
 ### Home Screen
 
-![Home](screenshots/Screenshot 2026-06-07 195513.png)
+![Home](screenshots/home.png)
 
 ### Disease Prediction
 
-![Prediction](screenshots/Screenshot 2026-06-07 195524.png)
+![Prediction](predict.png)
 
 ### Grad-CAM Explainability
 
-![GradCAM](screenshots/Screenshot 2026-06-07 195539.png)
+![GradCAM](screenshots/grad.png)
 
 ### Severity Analysis
 
-![Severity](screenshots/Screenshot 2026-06-07 195559.png)
+![Severity](screenshots/severity.png)
 
 ### Dashboard Analytics
 
-![Dashboard](screenshots/Screenshot 2026-06-07 195629.png)
+![Dashboard](screenshots/dashboard.png)
 
