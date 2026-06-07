@@ -1,0 +1,6 @@
+Paper Title,Year,Method,Dataset,Accuracy,Limitation
+Tomato Disease Detection Using CNN,2023,CNN,PlantVillage,98.2%,Only disease detection
+Plant Disease Classification Using Deep Learning,2022,ResNet50,PlantVillage,99.1%,No nutrient deficiency analysis
+Automatic Tomato Leaf Disease Detection,2024,EfficientNet,Custom Dataset,97.8%,Works only on disease symptoms
+Nutrient Deficiency Detection in Tomato Plants,2023,MobileNetV2,Custom Dataset,95.6%,Cannot detect diseases
+Deep Learning Based Plant Health Monitoring,2024,CNN + Transfer Learning,Mixed Dataset,96.4%,Disease and nutrient analysis done separately

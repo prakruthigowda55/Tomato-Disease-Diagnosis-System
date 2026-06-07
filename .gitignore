@@ -1,0 +1,7 @@
+venv/
+dataset/
+__pycache__/
+.ipynb_checkpoints/
+
+*.keras
+*.h5
