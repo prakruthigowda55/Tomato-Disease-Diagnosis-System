@@ -76,7 +76,7 @@ An AI-powered system that detects tomato leaf diseases, explains predictions usi
 
 ### Disease Prediction
 
-![Prediction](predict.png)
+![Prediction](screenshots/predict.png)
 
 ### Grad-CAM Explainability
 
